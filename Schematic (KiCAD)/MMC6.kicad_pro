@@ -598,7 +598,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "../",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
@@ -617,6 +617,22 @@
     [
       "9c3799ab-6551-4223-873d-a381e6a7d233",
       "Inverter Delay Strings"
+    ],
+    [
+      "b4f93c22-25b5-4a29-8771-5b363073191a",
+      "CHR Bank Decision Making"
+    ],
+    [
+      "84dd2776-1d5c-4656-bb27-56f1ce1ec089",
+      "Internal RAM"
+    ],
+    [
+      "94adb8e2-16e5-41dc-a830-f4356086d51b",
+      "Registers"
+    ],
+    [
+      "34c3d724-7ab3-4934-8e30-13aa3abb6caa",
+      "Scanline IRQ"
     ]
   ],
   "text_variables": {}
